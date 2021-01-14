@@ -115,3 +115,7 @@ Some of these things are already (by some definition) done, but are not set up f
 - Randomise drunkenness value on consumables
   - All consumables are alcoholic
 - Randomise dialogue (can this be done?)
+- Randomise text (custom from plaintext file, as well)
+  - Tutorials
+  - Descriptions
+  - Books
