@@ -77,7 +77,7 @@ Some of these things are already (by some definition) done, but are not set up f
 - Sprint
 - Simple frontend (faster, but invasive EXE patch; persistent settings is a must if this is included)
 
-**Unofficial Fable Patch**
+**Misc patches**
 - Buy/sell fix
 - Economy changes
 - Weapon damage changes
